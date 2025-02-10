@@ -3,7 +3,7 @@
 Welcome to my page. I likes football, chess, programming. 
 - 🔭 I’m currently working for some funny and pet projects
 - 🌱 I’m currently learning: math, programming, data science and game.
-- 
+- ...
 <!--
 **bahungsg/bahungsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
